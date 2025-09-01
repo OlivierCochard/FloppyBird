@@ -1,4 +1,4 @@
-# LightAdventure
+# FloppyBird
 My first ever completed game, it's a FlappyBird-like, it means an infinite game until death, try to achieve the highest score, while jumping between obstacles !
 
 # Instructions
